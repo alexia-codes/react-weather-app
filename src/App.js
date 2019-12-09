@@ -1,5 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
+import Weather from './Weather';
+
 import './App.css';
 
 function App() {
@@ -10,22 +12,29 @@ function App() {
         <
         header className = "App-header" >
         <
-        img src = { logo }
-        className = "App-logo"
-        alt = "logo" / >
+        big >
+        React Weather App <
+        /big> < /
+        header >
         <
-        p >
-        Edit < code > src / App.js < /code> and save to reload. <
-        /p> <
-        a className = "App-link"
-        href = "https://reactjs.org"
-        target = "_blank"
-        rel = "noopener noreferrer" >
-        Learn React <
-        /a> <
-        /header> <
-        /div> <
-        /div>
+        section className = "App-section" >
+        <
+        Weather / >
+        <
+        /section> <
+        footer className = "App-footer" >
+        <
+        small >
+        <
+        a href = "https://github.com/alexia-codes/react-weather-app"
+        target = "_blank" > Open - source code < /a> by <a href = "https:/ / github.com / alexia - codes " target = "
+        _blank ">Alexia Katrantzis</a> for <a href = "
+        https: //www.shecodes.io/" target = "_blank">SheCodes</a>.
+        <
+        /small> < /
+        footer > < /
+        div > < /
+        div >
     );
 }
 
