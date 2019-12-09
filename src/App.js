@@ -1,7 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
 import Weather from './Weather';
-
 import './App.css';
 
 function App() {
@@ -12,9 +10,7 @@ function App() {
         <
         header className = "App-header" >
         <
-        big >
-        React Weather App <
-        /big> < /
+        big > React Weather App < /big>  < /
         header >
         <
         section className = "App-section" >
