@@ -15,7 +15,7 @@ function App() {
         <
         section className = "App-section" >
         <
-        Weather / >
+        Weather defaultLocation = "Lisbon" / >
         <
         /section> <
         footer className = "App-footer" >
