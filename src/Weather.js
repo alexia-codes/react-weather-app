@@ -13,17 +13,18 @@ export default function Weather() {
         <
         input type = "search"
         placeholder = "Enter city..."
-        className = "form-control" / >
+        className = "form-control"
+        autoFocus = "on" / >
         <
         /div> <
         div className = "col-3" >
         <
         input type = "submit"
         value = "Search"
-        className = "btn btn-info" / >
+        className = "btn btn-info w-100" / >
         <
-        /div> <
-        /div> <
+        /div> < /
+        div > <
         /form> <
         h1 > Lisbon < /h1>  <
         ul >
@@ -32,12 +33,21 @@ export default function Weather() {
         li > Clear < /li> < /
         ul >
         <
-        div className = "row" >
+        div className = "row mt-3" >
         <
         div className = "col-6" >
         <
+        div className = "clearfix" >
+        <
         img src = "https://ssl.gstatic.com/onebox/weather/64/sunny.png"
-        alt = "Clear" / > 12° C | °F <
+        alt = "Clear"
+        className = "float-left" / >
+        <
+        div className = "float-left" >
+        <
+        span className = "temperature" > 12 < /span> <span className="units">°C | °F</span > < /
+        div > < /
+        div > <
         /div>  <
         div className = "col-6" >
         <
