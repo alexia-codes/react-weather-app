@@ -23,7 +23,7 @@ function App() {
         small >
         <
         a href = "https://github.com/alexia-codes/react-weather-app"
-        target = "_blank" > Open - source code < /a> by <a href = "https:/ / github.com / alexia - codes " target = "
+        target = "_blank"> Open - source code </a> by <a href = "https:/ / github.com / alexia - codes " target = "
         _blank ">Alexia Katrantzis</a> for <a href = "
         https: //www.shecodes.io/" target = "_blank">SheCodes</a>.
         <

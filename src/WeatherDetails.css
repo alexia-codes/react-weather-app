@@ -1,0 +1,43 @@
+.WeatherDetails h1 {
+    color: #eeeeee;
+    display: block;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 29px;
+    margin: 20px 0 0 0;
+}
+
+.WeatherDetails ul {
+    margin: 0;
+    padding: 0;
+}
+
+.WeatherDetails li {
+    color: #eeeeee;
+    display: block;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 19px;
+    list-style: none;
+}
+
+.WeatherDetails img {
+    height: 64px;
+    display: inline-block;
+    margin-right: 10px;
+    width: 64px;
+}
+
+.WeatherDetails .temperature {
+    color: #eeeeee;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.WeatherDetails .units {
+    position: relative;
+    font-size: 16px;
+    color: #eeeeee;
+    top: -34px;
+}
