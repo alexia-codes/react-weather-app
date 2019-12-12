@@ -23,9 +23,8 @@ function App() {
         small >
         <
         a href = "https://github.com/alexia-codes/react-weather-app"
-        target = "_blank" > Open - source code < /a> by <a href = "https:/ / github.com / alexia - codes " target = "
-        _blank ">Alexia Katrantzis</a>. Created with React. <
-        /small> < /
+        target = "_blank" > Open - source code < /a> by Alexia Katrantzis. Created with React. < /
+        small > < /
         footer > < /
         div > < /
         div >
