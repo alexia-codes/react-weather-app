@@ -1,0 +1,16 @@
+.DailyForecast {
+    text-align: center;
+    font-size: 11px;
+    margin-top: 20px;
+    color: #37474f;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.DailyForecast canvas {
+    display: block;
+    width: 40px;
+    text-align: center;
+    opacity: 1;
+    margin: 5px auto;
+}

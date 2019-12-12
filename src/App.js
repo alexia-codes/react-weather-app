@@ -10,7 +10,7 @@ function App() {
         <
         header className = "App-header" >
         <
-        big > React Weather App < /big>  < /
+        big > A Weather App < /big>  < /
         header >
         <
         section className = "App-section" >
@@ -23,10 +23,8 @@ function App() {
         small >
         <
         a href = "https://github.com/alexia-codes/react-weather-app"
-        target = "_blank"> Open - source code </a> by <a href = "https:/ / github.com / alexia - codes " target = "
-        _blank ">Alexia Katrantzis</a> for <a href = "
-        https: //www.shecodes.io/" target = "_blank">SheCodes</a>.
-        <
+        target = "_blank" > Open - source code < /a> by <a href = "https:/ / github.com / alexia - codes " target = "
+        _blank ">Alexia Katrantzis</a>. Created with React. <
         /small> < /
         footer > < /
         div > < /
